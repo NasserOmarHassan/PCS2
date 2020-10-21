@@ -1,3 +1,3 @@
 # PCS2
 
-Assigments For Principles of Computer Science II 
+Assignments For Principles of Computer Science II 
